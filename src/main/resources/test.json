@@ -1,0 +1,41 @@
+{
+  "request": {
+    "type": "City",
+    "query": "Novosibirsk, Russia",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Novosibirsk",
+    "country": "Russia",
+    "region": "Novosibirsk",
+    "lat": "55.041",
+    "lon": "82.934",
+    "timezone_id": "Asia\/Novosibirsk",
+    "localtime": "2023-07-08 22:13",
+    "localtime_epoch": 1688854380,
+    "utc_offset": "7.0"
+  },
+  "current": {
+    "observation_time": "03:13 PM",
+    "temperature": 20,
+    "weather_code": 116,
+    "weather_icons": [
+      "https:\/\/cdn.worldweatheronline.com\/images\/wsymbols01_png_64\/wsymbol_0004_black_low_cloud.png"
+    ],
+    "weather_descriptions": [
+      "Partly cloudy"
+    ],
+    "wind_speed": 11,
+    "wind_degree": 290,
+    "wind_dir": "WNW",
+    "pressure": 1005,
+    "precip": 0.2,
+    "humidity": 83,
+    "cloudcover": 37,
+    "feelslike": 20,
+    "uv_index": 4,
+    "visibility": 10,
+    "is_day": "no"
+  }
+}
